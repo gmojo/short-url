@@ -1,0 +1,26 @@
+{
+  "name": "RequestHeaderParser",
+  "version": "0.0.1",
+  "description": "Request Header Parser for FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "ejs": "^2.5.7",
+    "mongodb": "^2.2.31"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
